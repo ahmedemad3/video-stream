@@ -17,8 +17,8 @@ In this video tutorial, we explore the powerful "Stream" module in Node.js, whic
 
 To run the code locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/stream-nodejs-tutorial.git`
-2. Navigate to the project directory: `cd stream-nodejs-tutorial`
+1. Clone the repository: `git clone https://github.com/ahmedemad3/video-stream.git`
+2. Navigate to the project directory: `cd video-stream`
 3. Install dependencies: `npm install`
 4. Run the sample application: `npm start`
 
